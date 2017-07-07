@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RobotControl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_led_control">RobotControl</string>
+    <string name="heading1">Robot Controls</string>
+    <string name="heading2">Functions</string>
+    <string name="heading3">Modes</string>
+</resources>

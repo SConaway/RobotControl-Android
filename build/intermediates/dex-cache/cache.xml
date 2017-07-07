@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_2af72af503ac8fa240696afcb98e53a40bc5263b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_3389c33ccc3b130eaf3ced26b8dd9531d05229da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3cd2276a61476fd5f02d1a2b4c5ab6934b303c9e">
+        <dex dex="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f8832435b5118b054ac5940ce276ba85e7db40f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f38ae6dc0f7f9b020b945ba8243f6305c89cbc72">
+        <dex dex="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4f98a9d87425bd919254662b5e4ef49034018129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_66ac174b6a598261622bcd5f99711cec232d8439/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_9760c0c25ca0eef231bc70259b267aa58de37821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_559877643c80aed9e30b277ac5197f569458454a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7d7e82b7fa896034bd459a6730ba6aaac6aa3185">
+        <dex dex="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eeb12bc62718c997644fa07e1fe1c800e56a4568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5a444f3c105027008fb2be7d81dc1a2e8b1e349c">
+        <dex dex="/Users/Steven/RobotControl/Android Code/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_461a12117633166b1c2595f1e6c44aa68c4bd864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/Processing3/modes/AndroidMode/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_77b756a89f7deaba2b4c94ca1314db995ca22624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Steven/Downloads/FPA13UGILJWNZUL/RobotControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_22311ad645f88009e0c57a9634d2ff4be95630a2/classes.dex" />
+    </item>
+
+</items>
